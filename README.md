@@ -6,7 +6,7 @@ This page can be used to load advertisements inside Flutter WebView or other app
 
 ## 🔗 Live Demo
 
-[Visit Live Ad Page](https://msahajada262-maker.github.io/adpage)
+[Visit Live Ad Page](https://msahajada262-maker.github.io/adpageo)
 
 ## 📂 Files
 
